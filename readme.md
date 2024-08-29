@@ -9,7 +9,7 @@ La aplicación de Metacritic para móviles te permite:
 - Ver reseñas detalladas de cada juego, incluyendo puntajes, descripciones, plataformas, y géneros.
 - Explorar diferentes juegos a través de una interfaz de usuario intuitiva y fácil de usar.
 
-<img src="./assets/1.jpg" alt="Antes Habia una imagen" width="300" height="450"/>
+<img src="./assets/1.jpg" alt="Antes Habia una imagen" width="320" height="450"/>
 
 
 ## Características
@@ -26,4 +26,5 @@ La aplicación de Metacritic para móviles te permite:
 - **Tailwind CSS**: Utilizado para un estilo rápido y eficiente.
 - **Context API**: Para el manejo del estado global de la aplicación.
 
-![Antes Habia una imagen](./assets/2.jpg)
+<img src="./assets/2.jpg" alt="Antes Habia una imagen" width="320" height="450"/>
+
